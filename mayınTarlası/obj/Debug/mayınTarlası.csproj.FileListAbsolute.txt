@@ -1,0 +1,19 @@
+C:\Users\xxx\source\repos\mayınTarlası\mayınTarlası\bin\Debug\mayınTarlası.exe.config
+C:\Users\xxx\source\repos\mayınTarlası\mayınTarlası\bin\Debug\mayınTarlası.exe
+C:\Users\xxx\source\repos\mayınTarlası\mayınTarlası\bin\Debug\mayınTarlası.pdb
+C:\Users\xxx\source\repos\mayınTarlası\mayınTarlası\obj\Debug\mayınTarlası.csprojAssemblyReference.cache
+C:\Users\xxx\source\repos\mayınTarlası\mayınTarlası\obj\Debug\mayınTarlası.Form1.resources
+C:\Users\xxx\source\repos\mayınTarlası\mayınTarlası\obj\Debug\mayınTarlası.Properties.Resources.resources
+C:\Users\xxx\source\repos\mayınTarlası\mayınTarlası\obj\Debug\mayınTarlası.csproj.GenerateResource.cache
+C:\Users\xxx\source\repos\mayınTarlası\mayınTarlası\obj\Debug\mayınTarlası.exe
+C:\Users\xxx\source\repos\mayınTarlası\mayınTarlası\obj\Debug\mayınTarlası.pdb
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\bin\Debug\mayınTarlası.exe.config
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\bin\Debug\mayınTarlası.exe
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\bin\Debug\mayınTarlası.pdb
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\obj\Debug\mayınTarlası.csprojAssemblyReference.cache
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\obj\Debug\mayınTarlası.Form1.resources
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\obj\Debug\mayınTarlası.Properties.Resources.resources
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\obj\Debug\mayınTarlası.csproj.GenerateResource.cache
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\obj\Debug\mayınTarlası.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\obj\Debug\mayınTarlası.exe
+C:\Users\Zeynep Erman\Desktop\Yeni klasör\MAYIN TARLASI KLASÖR\mayın tarlası\mayınTarlası\obj\Debug\mayınTarlası.pdb
